@@ -924,7 +924,8 @@
 			"position": {"x": -0.1275925, "y": -9.622151, "z": -0.6371303},
 			"rotation": {"x": 88.98586, "y": 30.00028, "z": 270.0002},
 			"offset": {"x": 0, "y": 0.5, "z": 0},
-			"startWithSuit": true
+			"startWithSuit": true,
+			"isDefault": true
 		}
 	},
 	"Volumes": {
